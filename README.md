@@ -9,7 +9,7 @@ Garuda CRUD Generator is a CRUD Generator for Codeigniter Framework 3, Library D
 
 ### Login
 To make the login process please use the following default account: <br/>
-Email: admin@gmail.com
+Email: admin@gmail.com<br/>
 Password: password
 
 ## Features :
